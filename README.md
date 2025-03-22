@@ -1,54 +1,26 @@
-<h2 align="left">Hi 👋! I'm Saheli ...</h2>
+# 👋 Hello! I'm Saheli Das
+## 🌐 About Me ~
+![Profile Views](https://komarev.com/ghpvc/?username=saheli56&color=blue)
 
-###
+I started my tech journey in 2024.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saheli56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saheli56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I’m a Information Technology student passionate about software development, problem-solving, and open-source contributions. My primary focus is on C++ for DSA and Web Development, and I enjoy exploring Web3 and various other tech stacks.
 
-###
+Currently, I'm actively involved in hackathons, tech communities, and collaborative projects, always looking for opportunities to learn and build impactful solutions.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+🎯 Ongoing: Developing websites, participating in hackathons, and expanding my skill set.
 
-###
+📫 Let's connect and collaborate!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saheli-das-5b2490313/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/saheli56" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://medium.com/@sahelidas0506" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-###
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saheli-das-5b2490313/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sahelidas0506) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saheli5606) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahelidas0506@gmail.com) 
 
-<h2 align="left"></h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saheli56&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saheli56&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saheli56&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<div align="center">
-  <img height="150" src="https://ugc.production.linktr.ee/af825cf7-8de5-40af-876c-aa54dc241a50_self-2.jpeg?io=true&size=avatar-v3_0"  />
-</div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=saheli56.saheli56&left_color=palevioletred"  />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
