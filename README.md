@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saheli56&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="165" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=saheli56&theme=github_dark&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheli56&layout=compact&theme=github_dark&hide_border=false&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheli56&layout=compact&theme=github_dark&hide_border=false&langs_count=8" height="165"/>
 </div>
 
 ---
