@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,firebase,c,cpp,java,python,git," height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,firebase,c,cpp,java,python,jupyter,git," height="40" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saheli56&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saheli56&theme=github_dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" height="165" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=saheli56&theme=github_dark&hide_border=false" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheli56&layout=compact&theme=github_dark&hide_border=false&langs_count=8" height="165"/>
 </div>
