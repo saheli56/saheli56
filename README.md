@@ -11,7 +11,12 @@
 -  Trying out **Full-stack development**, and actively participating in **tech communities**.
 -  Engaged in **hackathons** and collaborative projects to build impactful solutions.
 
----
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Y5jmOiWJUiZ-T7xWViTzN5yOeZqL5wyB/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-4B8DF8?style=for-the-badge&logo=google-drive&logoColor=black" alt="View Resume"/>
+  </a>
+</p>
 
 ## 🛠 Tech Stack & Tools
 
