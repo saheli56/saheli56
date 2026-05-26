@@ -1,43 +1,39 @@
-<h1 align="center">👋 Hi, I'm Saheli!</h1>
+<h1 align="center">Hi, I'm Saheli</h1>
 <p align="center">
-  <i>An IT student exploring new technologies :)</i>
+  <i>IT Student | Full-stack Developer | AI/ML Developer</i>
 </p>
 
 ---
 
-## 🌟 About Me
+## About
 
--  Focused on **C++** for Data Structures and Algorithms and exploring **AI/ML** stuffs as well.
--  Trying out **Full-stack development**, and actively participating in **tech communities**.
--  Engaged in **hackathons** and collaborative projects to build impactful solutions.
+Learning **Data Structures & Algorithms** in **C++**. Building modern web applications and exploring **Machine Learning**. Active in hackathons and tech communities.
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Y5jmOiWJUiZ-T7xWViTzN5yOeZqL5wyB/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-4B8DF8?style=for-the-badge&logo=google-drive&logoColor=black" alt="View Resume"/>
+  <a href="https://www.saheli.me/Saheli_Das_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download Resume-1f6feb?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
-## 🛠 Tech Stack & Tools
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,firebase,c,cpp,java,python,git,github" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,c,cpp,mongodb,python,tensorflow,pytorch,opencv" height="40" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saheli56&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saheli56&theme=github_dark&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheli56&layout=compact&theme=github_dark&hide_border=false&langs_count=8" height="175"/>
+  
+![](https://github-readme-stats.shion.dev/api?username=saheli56&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&width=400)
+
+![](https://streak-stats.demolab.com/?user=saheli56&theme=github_dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saheli56&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&width=400)
+
 </div>
-
----
-
-<p align="center">
-Thank you for visiting my profile! 👊 Let's connect and build together!
-</p>
 
 ---
