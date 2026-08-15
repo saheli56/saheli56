@@ -7,12 +7,8 @@
 <p align="center">
   <i>Building forecasting models, NLP pipelines, and AI-powered developer tools.</i>
 </p>
-
----
-
-## About
-
-I'm an IT undergrad at JIS College of Engineering, focused on **machine learning and time-series forecasting**. I like turning messy data into leakage-safe, production-minded pipelines — and I build full-stack and AI-powered tools on the side. Currently looking for an **ML internship**.
+ 
+>I’m building my foundation in **Machine Learning**, from data preprocessing and statistical analysis to feature engineering, model training, evaluation, and deployment. I enjoy working on practical problems like **time-series forecasting and NLP**, experimenting with different models, and gradually turning ML experiments into usable full-stack and AI-powered tools on the side. Currently looking for an **ML internship**.
 
 <p align="center">
   <a href="https://www.saheli.me/Saheli_Das_Resume.pdf" target="_blank">
