@@ -56,14 +56,6 @@ An AI-powered VS Code extension for natural-language code interaction, dead-code
 
 ---
 
-## Hackathon Experience
-
--  **IEM HackOasis 2.0 — Winner** (Sep 2025): Built a multi-cloud deployment & optimization assistant with cost optimization, monitoring, and CSV-based analysis.
--  **Hexafalls Hackathon — 2nd Runner-Up** (Jul 2025): Built What-The-Code, an AI-powered VS Code extension, as a duo.
-- Participated in **5+ hackathons** focused on AI tools, developer productivity, and web applications.
-
----
-
 ### Tech Stack
 
 #### Machine Learning & Data
