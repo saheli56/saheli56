@@ -11,7 +11,7 @@
 >I’m building my foundation in **Machine Learning**, from data preprocessing and statistical analysis to feature engineering, model training, evaluation, and deployment. I enjoy working on practical problems like **time-series forecasting and NLP**, experimenting with different models, and gradually turning ML experiments into usable full-stack and AI-powered tools on the side. Currently looking for an **ML internship**.
 
 <p align="center">
-  <a href="https://www.saheli.me/Saheli_Das_Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1ilFjzz0OjUKuTdZzRQ5KnFjx1mKvyHQ8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-1f6feb?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
   </a>
 </p>
