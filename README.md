@@ -19,6 +19,36 @@
 ---
 
 ## Featured Project
+### Do It For Me (DIFM) – Autonomous Web Agent & Automation Suite  
+
+
+An intelligent agentic browser automation platform and Chrome extension that translates natural language  user goals into autonomous multi-step web actions with real-time visual grounding and human-in-the-loop safety verification.                                                                                        
+                                                                                                              
+- **Agentic Task Orchestration:** Interprets high-level user intent using **LLM reasoning**, compiling    
+  real-time browser observations into deterministic step-by-step action sequences over low-latency            
+  **WebSockets**.                                                                                             
+- **Semantic A11y Tree Grounding:** Parses live DOM structures into lightweight, noise-filtered           
+  **Accessibility (A11y) Trees** for robust cross-site element targeting without brittle CSS or XPath         
+  selectors.                                                                                                  
+- **Human-in-the-Loop Risk Safety:** Implements strict policy gating with real-time **Approval Request**  
+  prompts for sensitive transactions and seamless **CAPTCHA / 2FA** security challenge handover.              
+- **Smart Bill & Document Extractor:** Integrates **Tesseract.js OCR** and multimodal parsing to ingest   
+  invoices/bills and auto-fill complex forms and payment flows.                                               
+- **Profile Vault & Task Scheduler:** Features a contextual user identity vault with persistent background
+  task scheduling, execution logging, and automated reminder queues.                                          
+                                                                                                              
+    `TypeScript` `Node.js` `Fastify` `WebSockets` `Preact` `TailwindCSS` `WXT Extension` `OpenAI API`         
+  `Tesseract.js` `Zod` `Vitest`
+---
+
+## Other Projects
+
+### [Spam SMS Classification](https://github.com/saheli56)
+NLP classification pipeline using TF-IDF, comparing Logistic Regression, Naive Bayes, SVM, Decision Tree, and Random Forest.
+- Improved spam recall from **76.1% → 93.1%**, reaching **98.3% accuracy** and **93.5% F1** with a class-balanced linear SVM
+- Stratified evaluation with leakage-safe preprocessing
+
+`Python` `Scikit-learn` `TF-IDF`
 
 ### [Store Demand Forecasting System](https://github.com/saheli56/Store-Demand-Forecasting)
 
@@ -32,23 +62,6 @@ An end-to-end Machine Learning pipeline and interactive Streamlit web dashboard 
 - **Fast Inference:** Evaluates multi-step forecasts in **<50ms** using strict chronological time-based validation splits.
 
 `Python` `LightGBM` `Pandas` `Streamlit` `Scikit-learn` `NumPy` `Plotly` `Matplotlib`
-
----
-
-## Other Projects
-
-### [Spam SMS Classification](https://github.com/saheli56)
-NLP classification pipeline using TF-IDF, comparing Logistic Regression, Naive Bayes, SVM, Decision Tree, and Random Forest.
-- Improved spam recall from **76.1% → 93.1%**, reaching **98.3% accuracy** and **93.5% F1** with a class-balanced linear SVM
-- Stratified evaluation with leakage-safe preprocessing
-
-`Python` `Scikit-learn` `TF-IDF`
-
-### [What-The-Code — AI-Powered VS Code Extension](https://github.com/saheli56)
-An AI-powered VS Code extension for natural-language code interaction, dead-code detection, and snapshot-based file recovery.
-- Built solo-duo in a **32-hour hackathon** → 2nd Runner-Up, Hexafalls Hackathon
-
-`TypeScript` `Gemini API` `VS Code API`
 
 ---
 
