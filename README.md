@@ -19,7 +19,7 @@
 ---
 
 ## Featured Project
-### Do It For Me (DIFM) – Autonomous Web Agent & Automation Suite  
+### [Do It For Me (DIFM)](https://github.com/saheli56/Do_it_4_me) – Autonomous Web Agent & Automation Suite  
 
 
 An intelligent agentic browser automation platform and Chrome extension that translates natural language  user goals into autonomous multi-step web actions with real-time visual grounding and human-in-the-loop safety verification.                                                                                        
@@ -43,12 +43,17 @@ An intelligent agentic browser automation platform and Chrome extension that tra
 
 ## Other Projects
 
-### [Spam SMS Classification](https://github.com/saheli56)
-NLP classification pipeline using TF-IDF, comparing Logistic Regression, Naive Bayes, SVM, Decision Tree, and Random Forest.
-- Improved spam recall from **76.1% → 93.1%**, reaching **98.3% accuracy** and **93.5% F1** with a class-balanced linear SVM
-- Stratified evaluation with leakage-safe preprocessing
-
-`Python` `Scikit-learn` `TF-IDF`
+### [AI Revenue Recovery Engine](https://github.com/YOUR_USERNAME/revenue) 
+                                                                                                                                        
+An autonomous, closed-loop revenue recovery pipeline and real-time dashboard for mitigating payment failures, checkout drop-offs and subscription declines with deterministic safety guardrails.                                                                       
+                                                                                                                                        
+* **Deterministic 5-Stage Pipeline**: Orchestrates payment detection, root-cause diagnosis, policy strategy selection, channel execution, and closed-loop ledger auditing.                                                                                           
+* **Hybrid Diagnosis (Rules + LLMs)**: Combines instant deterministic gateway mapping with Groq & Gemini Flash fallback to classify ambiguous logs and Hinglish customer notes with zero cold start.                                                                      
+* **Safety & Policy Guardrails**: Enforces 12 registered policy rules, customer velocity limits (≤3 interventions / 24h), 48h soft-decline cooldowns, and an emergency global kill-switch.                                                                               
+* **Multi-Channel Execution & Gateways**: Dispatches idempotent Razorpay API actions and automated recovery workflows via WhatsApp, Email, SMS, and Ops escalation.                                                                                                       
+* **Financial Ledger & ROI Analytics**: Delivers cost-aware accounting, tracking 40% gross recovery rate, 575x ROI, 100% safety precision, and <5s average resolution latency.                                                                                        
+                                                                                                                                        
+`Python` `FastAPI` `React` `TypeScript` `SQLAlchemy` `Gemini API` `Groq` `Razorpay` `Tailwind CSS` `Docker` `Pytest` 
 
 ### [Store Demand Forecasting System](https://github.com/saheli56/Store-Demand-Forecasting)
 
