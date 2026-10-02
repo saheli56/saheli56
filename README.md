@@ -19,7 +19,7 @@
 ---
 
 ## Featured Project
-### [Do It For Me (DIFM)](https://github.com/saheli56/Do_it_4_me) – Autonomous Web Agent & Automation Suite  
+### [Do It For Me (DIFM)](https://github.com/saheli56/do-it-for-me) – Autonomous Web Agent & Automation Suite  
 
 
 An intelligent agentic browser automation platform and Chrome extension that translates natural language  user goals into autonomous multi-step web actions with real-time visual grounding and human-in-the-loop safety verification.                                                                                        
